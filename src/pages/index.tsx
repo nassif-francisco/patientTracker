@@ -49,7 +49,7 @@ const Index = () => {
       <>
         {data.getUsers.map( l => {
           return (
-            <div className = "list-group">
+            <div key = {`/users/`+l.id} className = "list-group">
               <a href={`/users/`+l.id} className="list-group-item list-group-item-action d-flex gap-1" aria-current="true">
                 <img src="/customer.png" alt="twbs" width="32" height="32" className="rounded-circle flex-shrink-0"/>
                 <div className="d-flex w-100 justify-content-between">
