@@ -31,9 +31,9 @@ const About = ()=>{
             <a href="https://www.sciencedirect.com/science/article/pii/S1674987120302061">check this</a>
             ####
             <a href="https://www.sciencedirect.com/science/article/abs/pii/S0895981120305617?via%3Dihub">or this!</a>
-            . That's why I am so into web systems! because they give solutions to real life problems.
+            . That is why I am so into web systems! because they give solutions to real life problems.
             <br/>
-            I mean, as long as my code can make somebody's life better, easier or funnier, I really don't mind if 
+            I mean, as long as my code can make somebodys life better, easier or funnier, I really do not mind if 
         no Laplacian operators or the weak form
         <br/>
         of the heat equation are considered.
